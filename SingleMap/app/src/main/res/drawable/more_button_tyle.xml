@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android" >
-      <item android:drawable="@color/more_state_F" android:state_pressed="false"/><!-- 没有按下 -->
-    <item android:drawable="@color/more_state_T" android:state_pressed="true"/><!-- 按下 -->
-    <item android:drawable="@color/more_state_T" android:state_focused="true"/><!-- 对焦 -->
-
-</selector>
